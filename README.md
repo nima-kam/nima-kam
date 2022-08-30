@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nima-kam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Computer Vision and Back-end Development
+- 🌱 I’m currently learning Pytorch
 - 📫 How to reach me 
 MY E-Mail :nimakambarani007@gmail.com
 
