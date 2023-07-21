@@ -18,12 +18,7 @@ I’m Nima Kambarani and I'm a Computer Engineering student interested in Comput
 
 ### Top Frameworks
 
-![Django](https://img.shields.io/pypi/format/Django?style=for-the-badge&logo=Django)
+![Django](https://img.shields.io/badge/-Django-092E20?&logo=django&style=for-the-badge&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=for-the-badge&logo=PyTorch)
 ![Flask](https://img.shields.io/badge/-Flask-000?style=for-the-badge&logo=flask)
 
-
-<!---
-nima-kam/nima-kam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
