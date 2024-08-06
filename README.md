@@ -5,8 +5,7 @@ I’m Nima Kambarani and I'm a Computer Engineering student interested in Comput
   <a href="mailto:nimakambarani007@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/email-open.png"/></a>
 
 ### Github Stats
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=nima-kam&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nima-kam&hide=html&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=dracula" /></a>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=nima-kam&theme=dracula" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nima-kam&hide=html&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=dracula" /></a>
 
 ### Top Languages
 
